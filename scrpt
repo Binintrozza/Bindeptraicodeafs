@@ -1,2 +1,7 @@
+--script PC :
 repeat wait() until game:IsLoaded()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Binintrozza/Bindeptraicodeafs/main/AFS"))()
+-- Script PE  :
+repeat wait() until game:IsLoaded()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Binintrozza/Bindeptraicodeafs/main/AFSPE"))()
+
