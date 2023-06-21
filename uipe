@@ -637,7 +637,7 @@ function Library:create(options)
 		BackgroundTransparency = 1,
 		Size = UDim2.new(1, 47,1, 47),
 		ZIndex = 0,
-		Image = "rbxassetid://6015897843",
+		Image = "rbxassetid://12699767780",
 		ImageColor3 = Color3.new(0, 0, 0),
 		ImageTransparency = .6,
 		SliceCenter = Rect.new(47, 47, 450, 450),
