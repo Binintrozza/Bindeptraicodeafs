@@ -665,7 +665,7 @@ function Library:create(options)
 	})
 
 	local homeButton = tabButtons:object("TextButton", {
-		Name = "hehehe siuuuuuuuuu",
+		Name = "Yuteaz checker :D",
 		BackgroundTransparency = 0,
 		Theme = {BackgroundColor3 = "Secondary"},
 		Size = UDim2.new(0, 125, 0, 25)
@@ -919,7 +919,7 @@ function Library:create(options)
 
 	rawset(mt, "creditsContainer", creditsTab.container)
 
-	creditsTab:credit{Name = "yuteaz", Description = "UI Library Developer", Discord = "yuteaz", V3rmillion = "yuteaz"}
+	creditsTab:credit{Name = "yuteaz", Description = "UI Library Developer", Discord = "yuteaz"}
 	creditsTab:credit{Name = "Discord", Description = "Discord", Discord ="https://discord.gg/Rq7m89mwvD"}
 
 	return mt
